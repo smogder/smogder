@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building my own ERP system to manage stock, order processing, and billing workflows — focusing on clean backend architecture and real-world business logic.<br>🤝 I’m looking to collaborate on<br>Projects built with .NET, C#, ASP.NET Core, and backend-focused systems.<br>🌱 I’m currently learning<br>ASP.NET Core, Entity Framework, Angular, and foundational System Design principles to architect scalable ERP solutions.<br>🌱 I’m currently learning ASP.NET Core, Entity Framework, Angular, and foundational System Design principles to architect scalable ERP solutions. <br>⚡ Fun fact<br>I once spent hours fixing a bug that turned out to be a missing semicolon — and I loved the process.
+🔭 I’m currently working on<br>Building my own ERP system to manage stock, order processing, and billing workflows — focusing on clean backend architecture and real-world business logic.<br>🤝 I’m looking to collaborate on<br>Projects built with .NET, C#, ASP.NET Core, and backend-focused systems.<br>🌱 I’m currently learning ASP.NET Core, Entity Framework, Angular, and foundational System Design principles to architect scalable ERP solutions. <br>⚡ Fun fact<br>I once spent hours fixing a bug that turned out to be a missing semicolon — and I loved the process.
 
 
 ## 🌐 Socials:
