@@ -10,7 +10,6 @@
 
 [![Email](https://img.shields.io/badge/makasareworks%40gmail.com-0e1117?style=for-the-badge&logo=gmail&logoColor=b8965a)](mailto:makasareworks@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e1117?style=for-the-badge&logo=linkedin&logoColor=b8965a)](https://www.linkedin.com/in/sanidhya-makasare)
-[![GitHub](https://img.shields.io/badge/GitHub-0e1117?style=for-the-badge&logo=github&logoColor=b8965a)](https://github.com/smogder)
 [![Cover Letter](https://img.shields.io/badge/Cover%20Letter%20%F0%9F%93%84-b8965a?style=for-the-badge)](https://smogder.github.io/cover-letter)
 
 </div>
