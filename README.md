@@ -1,24 +1,164 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building my own ERP system to manage stock, order processing, and billing workflows — focusing on clean backend architecture and real-world business logic.<br>🤝 I’m looking to collaborate on<br>Projects built with .NET, C#, ASP.NET Core, and backend-focused systems.<br>🌱 I’m currently learning ASP.NET Core, Entity Framework, Angular, and foundational System Design principles to architect scalable ERP solutions. <br>⚡ Fun fact<br>I once spent hours fixing a bug that turned out to be a missing semicolon — and I loved the process.
+<div align="center">
 
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=160&section=header&text=Sanidhya%20Makasare&fontSize=42&fontColor=b8965a&fontAlignY=50&desc=.NET%20Full%20Stack%20Developer&descAlignY=72&descColor=f6f3ee&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/civilizedcaptain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanidhya-makasare-601987296) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Severe-Evening6816) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/makasarecodes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SmogderCodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makasareworks@gmail.com) 
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=B8965A&center=true&vCenter=true&width=700&lines=RESTful+APIs+on+ASP.NET+Core;Controller+%E2%86%92+Service+%E2%86%92+Repository;Angular+%7C+SQL+Server+%7C+EF+Core;Building+systems+that+outlast+deadlines+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smogder&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=smogder&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smogder&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smogder&theme=cobalt2&no-frame=false&no-bg=false&margin-w=4)
+[![Email](https://img.shields.io/badge/makasareworks%40gmail.com-0e1117?style=for-the-badge&logo=gmail&logoColor=b8965a)](mailto:makasareworks@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e1117?style=for-the-badge&logo=linkedin&logoColor=b8965a)](https://www.linkedin.com/in/sanidhya-makasare)
+[![GitHub](https://img.shields.io/badge/GitHub-0e1117?style=for-the-badge&logo=github&logoColor=b8965a)](https://github.com/smogder)
+[![Cover Letter](https://img.shields.io/badge/Cover%20Letter%20%F0%9F%93%84-b8965a?style=for-the-badge)](https://smogder.github.io/cover-letter)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=smogder&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+```csharp
+var sanidhya = new Developer
+{
+    Name              = "Sanidhya Makasare",
+    Role              = ".NET Full Stack Developer",
+    Education         = new[] { "MCA – Parul University", "BMM (Advertising) – Mumbai University" },
+    Location          = "Vadodara, India",
+    Delivers          = new[] {
+                          "RESTful APIs on ASP.NET Core",
+                          "Normalized SQL Server schemas",
+                          "Angular frontends with RBAC"
+                        },
+    Architecture      = "Controller → Service → Repository",
+    CurrentlyBuilding = "Custom ERP System for a real-world offline business",
+    Languages         = new[] { "English", "Hindi", "Gujarati", "Marathi", "German (Elementary)" },
+    Philosophy        = "Robust systems aren't built from requirements — they're built" +
+                        " from understanding the problem so deeply that the solution becomes obvious."
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-0e1117?style=for-the-badge&logo=csharp&logoColor=b8965a)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0e1117?style=for-the-badge&logo=dotnet&logoColor=b8965a)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-0e1117?style=for-the-badge&logo=dotnet&logoColor=b8965a)
+![REST API](https://img.shields.io/badge/RESTful_APIs-0e1117?style=for-the-badge&logo=fastapi&logoColor=b8965a)
+![LINQ](https://img.shields.io/badge/LINQ-0e1117?style=for-the-badge&logo=dotnet&logoColor=b8965a)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-0e1117?style=for-the-badge&logo=angular&logoColor=b8965a)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0e1117?style=for-the-badge&logo=javascript&logoColor=b8965a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-0e1117?style=for-the-badge&logo=bootstrap&logoColor=b8965a)
+![HTML5](https://img.shields.io/badge/HTML5-0e1117?style=for-the-badge&logo=html5&logoColor=b8965a)
+![CSS3](https://img.shields.io/badge/CSS3-0e1117?style=for-the-badge&logo=css3&logoColor=b8965a)
+
+### Database & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-0e1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=b8965a)
+![Git](https://img.shields.io/badge/Git-0e1117?style=for-the-badge&logo=git&logoColor=b8965a)
+![GitHub](https://img.shields.io/badge/GitHub-0e1117?style=for-the-badge&logo=github&logoColor=b8965a)
+![Swagger](https://img.shields.io/badge/Swagger-0e1117?style=for-the-badge&logo=swagger&logoColor=b8965a)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ Employee Admin Portal
+A production-ready **RESTful API** built with ASP.NET Core for employee and admin management.
+
+**Highlights:**
+- ✅ Full CRUD with Entity Framework Core
+- ✅ Controller → Service → Repository pattern
+- ✅ Dependency Injection throughout
+- ✅ Swagger / OpenAPI documentation
+- ✅ Centralized exception handling & input validation
+
+**Stack:**
+`C#` `ASP.NET Core` `EF Core` `SQL Server` `Swagger`
+
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-0e1117?style=flat-square&logo=github&logoColor=b8965a)](https://github.com/smogder/WebAPI-ASP.Net)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 ERP System *(In Progress)*
+A **custom Enterprise Resource Planning system** for a real-world offline business — not a tutorial, a real deployment.
+
+**Highlights:**
+- 🔄 Inventory, Sales & Purchase workflows
+- 🔄 Stock movement tracking (purchase, sale, damage, adjustment)
+- 🔄 Role-Based Access Control — owner / admin / salesperson
+- 🔄 Normalized relational schema design
+- 🔄 Angular frontend for non-technical users
+
+**Stack:**
+`C#` `ASP.NET Core` `Angular` `EF Core` `SQL Server` `RBAC`
+
+[![In Progress](https://img.shields.io/badge/Status-In%20Progress-b8965a?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📐 Architecture I Live By
+
+```
+Controller  →  Service  →  Repository  →  Database
+     ↓              ↓             ↓
+ Validation     Business       Data
+ & Routing       Logic         Access
+```
+
+> Clean layers. Testable code. No spaghetti.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smogder&show_icons=true&theme=dark&bg_color=0e1117&title_color=b8965a&icon_color=b8965a&text_color=f6f3ee&border_color=b8965a)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smogder&layout=compact&theme=dark&bg_color=0e1117&title_color=b8965a&text_color=f6f3ee&border_color=b8965a)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=smogder&theme=dark&background=0e1117&ring=b8965a&fire=b8965a&currStreakLabel=b8965a&sideLabels=f6f3ee&dates=7a7268&border=b8965a&currStreakNum=f6f3ee&sideNums=f6f3ee)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📄 Cover Letter
+
+> *"Robust systems aren't built from requirements — they're built from understanding the problem so deeply that the solution becomes obvious."*
+
+[![Read Cover Letter](https://img.shields.io/badge/View%20My%20Cover%20Letter-b8965a?style=for-the-badge&logo=read-the-docs&logoColor=0e1117)](https://smogder.github.io/cover-letter)
+
+---
+
+## 🌐 Languages
+
+`English` &nbsp; `Hindi` &nbsp; `Gujarati` &nbsp; `Marathi` &nbsp; `German (Elementary 🇩🇪)`
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=100&section=footer" />
+
+*Built with intention. Architected to last.*
+
+</div>
