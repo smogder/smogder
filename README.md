@@ -19,25 +19,13 @@
 
 ## 👋 About Me
 
-```csharp
-var sanidhya = new Developer
-{
-    Name              = "Sanidhya Makasare",
-    Role              = ".NET Full Stack Developer",
-    Education         = new[] { "MCA – Parul University", "BMM (Advertising) – Mumbai University" },
-    Location          = "Vadodara, India",
-    Delivers          = new[] {
-                          "RESTful APIs on ASP.NET Core",
-                          "Normalized SQL Server schemas",
-                          "Angular frontends with RBAC"
-                        },
-    Architecture      = "Controller → Service → Repository",
-    CurrentlyBuilding = "Custom ERP System for a real-world offline business",
-    Languages         = new[] { "English", "Hindi", "Gujarati", "Marathi", "German (Elementary)" },
-    Philosophy        = "Robust systems aren't built from requirements — they're built" +
-                        " from understanding the problem so deeply that the solution becomes obvious."
-};
-```
+| | |
+|---|---|
+| 🧑‍💻 **Role** | .NET Full Stack Developer |
+| ⚙️ **Delivers** | RESTful APIs · Normalized SQL Server schemas · Angular frontends with RBAC |
+| 🏗️ **Architecture** | Controller → Service → Repository |
+| 🔨 **Currently Building** | Custom ERP System for a real-world offline business |
+| 🌐 **Spoken Languages** | English · Hindi · Gujarati · Marathi · German (Elementary) |
 
 ---
 
@@ -86,7 +74,7 @@ A production-ready **RESTful API** built with ASP.NET Core for employee and admi
 - ✅ Centralized exception handling & input validation
 
 **Stack:**
-`C#` `ASP.NET Core` `EF Core` `SQL Server` `Swagger`
+`C#` `ASP.NET Core` `MVC` `EF Core` `SQL Server` `Swagger`
 
 [![View Repo](https://img.shields.io/badge/View%20on%20GitHub-0e1117?style=flat-square&logo=github&logoColor=b8965a)](https://github.com/smogder/WebAPI-ASP.Net)
 
@@ -94,12 +82,12 @@ A production-ready **RESTful API** built with ASP.NET Core for employee and admi
 <td width="50%" valign="top">
 
 ### 🏭 ERP System *(In Progress)*
-A **custom Enterprise Resource Planning system** for a real-world offline business — not a tutorial, a real deployment.
+A **custom ERP system** for a real-world offline business not a tutorial, a real deployment.
 
 **Highlights:**
 - 🔄 Inventory, Sales & Purchase workflows
 - 🔄 Stock movement tracking (purchase, sale, damage, adjustment)
-- 🔄 Role-Based Access Control — owner / admin / salesperson
+- 🔄 Role-Based Access Control owner / admin / salesperson
 - 🔄 Normalized relational schema design
 - 🔄 Angular frontend for non-technical users
 
@@ -123,7 +111,7 @@ Controller  →  Service  →  Repository  →  Database
  & Routing       Logic         Access
 ```
 
-> Clean layers. Testable code. No spaghetti.
+> Clean layers. Testable code!
 
 ---
 
@@ -143,15 +131,13 @@ Controller  →  Service  →  Repository  →  Database
 
 ## 📄 Cover Letter
 
-> *"Robust systems aren't built from requirements — they're built from understanding the problem so deeply that the solution becomes obvious."*
-
 [![Read Cover Letter](https://img.shields.io/badge/View%20My%20Cover%20Letter-b8965a?style=for-the-badge&logo=read-the-docs&logoColor=0e1117)](https://smogder.github.io/cover-letter)
 
 ---
 
-## 🌐 Languages
+## 🌐 Spoken Languages
 
-`English` &nbsp; `Hindi` &nbsp; `Gujarati` &nbsp; `Marathi` &nbsp; `German (Elementary 🇩🇪)`
+`English` &nbsp; `Hindi` &nbsp; `Gujarati` &nbsp; `Marathi` &nbsp; `German (Elementary)`
 
 ---
 
